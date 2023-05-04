@@ -1,0 +1,9 @@
+{
+  "name": "meaningful-automation",
+  "version": "1.0.0",
+  "factorio_version": "1.1",
+  "title": "Meaningful Early-Game Automation",
+  "author": "Sarge945, based on code from Cyres and palmic",
+  "description": "Crafting speed, mining speed and reach all start off very short, increasing with armour upgrades. Map and Hotbar are disabled without armour. Burner assembler is included to allow early game automation.",
+  "dependencies": ["base >= 1.1.0"]
+}
