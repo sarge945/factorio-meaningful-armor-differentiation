@@ -1,6 +1,6 @@
 @echo off
 
-set modname=meaningful-automation_1.0.0
+set modname=better-armor-progression_1.0.0
 
 cd %~dp0
 rmdir /s /q "%~dp0out" 2>NUL
